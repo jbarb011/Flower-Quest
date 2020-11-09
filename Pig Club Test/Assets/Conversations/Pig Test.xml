@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+  <Conversation ID="0">
+    <Dialogue>
+      <Name>Piggy</Name>
+      <Message>Hello!</Message>
+    </Dialogue>
+
+    <Dialogue>
+      <Name>Piggy</Name>
+      <Message>I Love You!</Message>
+    </Dialogue>
+
+    <Dialogue>
+      <Name>Piggy</Name>
+      <Message>Do you love me?</Message>
+    </Dialogue>
+
+    <Option>
+      <Message ID="1">Yeah!</Message>
+      <Message ID="2">It's too soon...</Message>
+      <Message ID="3">Fuck You</Message>
+      <Message ID="1">Goopy</Message>
+      <Message ID="3">Haha</Message>
+      <Message ID="2">Weeeee</Message>
+    </Option>
+  </Conversation>
+
+  <Conversation ID="1">
+    <Dialogue>
+      <Name>Piggy</Name>
+      <Message>Yay!!!!</Message>
+    </Dialogue>
+  </Conversation>
+
+  <Conversation ID="2">
+    <Dialogue>
+      <Name>Piggy</Name>
+      <Message>Oops...</Message>
+    </Dialogue>
+    </Conversation>
+
+  <Conversation ID="3">
+    <Dialogue>
+      <Name>Piggy</Name>
+      <Message>You're mean...</Message>
+    </Dialogue>
+  </Conversation>
+
+</root>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+  <Conversation ID="0">
+    <Dialogue>
+      <Name>Human</Name>
+      <Message>I hate you!</Message>
+    </Dialogue>
+
+    <Dialogue>
+      <Name>Human</Name>
+      <Message>Fuck YOu!</Message>
+    </Dialogue>
+
+    <Dialogue>
+      <Name>Human</Name>
+      <Message>I'm sorry babe I didn't mean it</Message>
+    </Dialogue>
+
+    <Icon>
+      <Path>Sprites/pig holder</Path>
+    </Icon>
+
+    <Dialogue>
+      <Name>Piggy</Name>
+      <Message>Weirdo</Message>
+    </Dialogue>
+  </Conversation>
+
+
+</root>
